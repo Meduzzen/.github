@@ -15,7 +15,10 @@ A senior engineering team you hire, with 370+ client reviews and a 100% Job Succ
 
 ## Work with us
 
-- [Hire engineers](https://meduzzen.com/talent-lab/?utm_source=github&utm_medium=org_readme): AI, Python, Node.js, full-stack
-- [Blog](https://meduzzen.com/blog/?utm_source=github&utm_medium=org_readme) · [Careers](https://meduzzen.com/careers/?utm_source=github&utm_medium=org_readme) · [Upwork](https://www.upwork.com/agencies/meduzzen/) · [Clutch](https://clutch.co/profile/meduzzen)
+Hire pre-vetted senior engineers through [Talent Lab](https://meduzzen.com/talent-lab/?utm_source=github&utm_medium=org_readme):
+
+[AI](https://meduzzen.com/hire/ai-developers/?utm_source=github&utm_medium=org_readme) · [Python](https://meduzzen.com/hire/python-developers/?utm_source=github&utm_medium=org_readme) · [FastAPI](https://meduzzen.com/hire/fastapi-developers/?utm_source=github&utm_medium=org_readme) · [Node.js](https://meduzzen.com/hire/node-js-developers/?utm_source=github&utm_medium=org_readme) · [Backend](https://meduzzen.com/hire/backend-developers/?utm_source=github&utm_medium=org_readme) · [Full-stack](https://meduzzen.com/hire/full-stack-developers/?utm_source=github&utm_medium=org_readme)
+
+[Blog](https://meduzzen.com/blog/?utm_source=github&utm_medium=org_readme) · [Careers](https://meduzzen.com/careers/?utm_source=github&utm_medium=org_readme) · [Upwork](https://www.upwork.com/agencies/meduzzen/) · [Clutch](https://clutch.co/profile/meduzzen)
 
 *Built in Ukraine. Working with clients worldwide.*
